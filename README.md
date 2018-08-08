@@ -4,9 +4,16 @@
  </head>
  <body>
  <h1>Our Favorite Supers:</h>
+  <section>
+   <h2>Disney/Marvel</h2>
  <p>Spiderman</p>
- <p>Batman</p>
  <p>Wolverine</p>
  <p>Jack Jack</p>
-</body>
+  </section>
+   <section>
+    <h2>DC Comics</h2>
+     <p>Batman</p>
+     <p>The Flash</p>
+  </section>
+ </body>
 </html>
