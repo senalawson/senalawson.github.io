@@ -1,5 +1,6 @@
 <html>
  <head>
+  <link rel="stylesheet" href="style.css">
   <title>HTML CSS Workshop 8/8</title>
  </head>
  <body>
